@@ -446,14 +446,14 @@ html {
     margin: 0 auto;
   }
   .home__title {
-    font-size: 21em;
+    font-size: 16em;
   }
   .home__subtitle {
     margin-top: -2em;
     font-size: 2em;
   }
   .home__desc {
-    font-size: 4.5em;
+    font-size: 4em;
   }
   .home__btn {
     font-size: 2em;
@@ -477,7 +477,7 @@ html {
 
 @media screen and (min-width: 1900px) {
   .home__title {
-    font-size: 21em;
+    font-size: 18em;
   }
   .home__subtitle {
     margin-top: -2em;
